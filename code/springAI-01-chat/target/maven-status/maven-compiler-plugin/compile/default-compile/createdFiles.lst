@@ -1,0 +1,4 @@
+com\springai01chat\common\CorsConfig.class
+com\springai01chat\controller\chatController.class
+com\springai01chat\SpringAi01ChatApplication.class
+com\springai01chat\common\Result.class

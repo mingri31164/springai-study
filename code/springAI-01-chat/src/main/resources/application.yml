@@ -1,0 +1,12 @@
+spring:
+  application:
+    name=springAI-01-chat
+
+
+  ai:
+    openai:
+      api-key: sk-qGXAAEMyG5J7Gfzh5298A39214D243E59799Db210fBfE2Db
+      base-url: https://api.xiaoai.plus
+#      前端Authorization：'mL9np6Jie3ISXurpy2BaT3BlbkFJmeeAFDaH1JDpECDVWH1s'
+server:
+  port: 8536
